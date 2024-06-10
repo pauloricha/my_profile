@@ -1,5 +1,7 @@
 Projeto FIAP NATIVE MULTIPLATFORM APPLICATIONS WITH REACT NATIVE
 
+![Screenshot_1717985596](https://github.com/pauloricha/my_profile/assets/14791519/1c6ee6ef-6b7c-4a5e-93cb-8ff317f1098d)
+
 # Getting Started
 
 ```bash
